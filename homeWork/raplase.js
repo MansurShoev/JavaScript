@@ -1,0 +1,1 @@
+str.replace(regexp|substr, newSubStr|function[, flags])

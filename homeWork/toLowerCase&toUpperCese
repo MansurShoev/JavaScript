@@ -1,0 +1,7 @@
+console.log('АЛФАВИТ'.toLowerCase()); // 'алфавит'
+
+
+
+
+
+console.log('алфавит'.toUpperCase()); // 'АЛФАВИТ'
